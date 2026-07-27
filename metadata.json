@@ -1,0 +1,6 @@
+{
+  "name": "JAN & CO Tax Calculators",
+  "description": "Corporate Tax & Business Income Tax Calculators suite for Pakistan Individuals and Businesses by JAN & CO Tax Consultants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
